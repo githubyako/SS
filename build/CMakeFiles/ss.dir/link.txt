@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/ss.dir/main.o  -o ss -rdynamic 
